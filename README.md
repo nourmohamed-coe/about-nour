@@ -1,3 +1,5 @@
+http://about-nour.com
+
 Purpose
 
 My website serves as a dynamic platform to showcase the skills I’ve developed through my internships and personal projects, with a strong focus on cloud architecture, software development, and networking. It also represents a reimagined and enhanced version of the Apollo project I worked on during my Summer 2023 internship at AWS. By leveraging AWS technologies, I’ve built a scalable, cloud-hosted application that highlights my ability to design and implement end-to-end solutions. Beyond technical projects, the website provides a comprehensive look at my resume, offering insights into my experience, education, and technical proficiencies. It’s a space where I can present my work, reflect on my growth, and demonstrate how my skills come together to create impactful solutions—whether in cloud computing, software development, or networking. Take a look around and enjoy!
